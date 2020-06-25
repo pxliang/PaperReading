@@ -11,3 +11,7 @@
 | **Title** | **Paper** | **Code** | **Summary** |
 |:-:|:-:|:-:|:-:|
 |DeepEMD: Few-Shot Image Classification With Differentiable Earth Mover's Distance and Structured Classifiers|[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_DeepEMD_Few-Shot_Image_Classification_With_Differentiable_Earth_Movers_Distance_and_CVPR_2020_paper.pdf)|[code](https://github.com/icoz69/DeepEMD)|
+
+### (3) Instance Segmentation
+
+|PolyTransform: Deep Polygon Transformer for Instance Segmentation|[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.pdf)||To DO|
