@@ -17,7 +17,7 @@
 |End-to-End Object Detection with Transformers|[paper](https://arxiv.org/pdf/2005.12872.pdf)|arxiv|[code](https://github.com/facebookresearch/detr)||
 |Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks|[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7422783)|TMI 2016||TO DO|
 
-## Semi-supervisied
+## Semi-supervised
 | **Title** | **Paper** | **Conference** |**Code** | **Summary** |
 |:-:|:-:|:-:|:-:|:-:|
 |FocalMix: Semi-Supervised Learning for 3D Medical Image Detection|[paper](https://arxiv.org/pdf/2003.09108.pdf)|CVPR 2020||TO DO|
