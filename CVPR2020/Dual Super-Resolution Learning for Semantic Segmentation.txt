@@ -1,5 +1,17 @@
 This paper proposes a two-stream network to integrate super resolution task with semantic segmentation task to extract
 better high-resolution representation for low-resolution raw input images. By extracting features from low-resolution
-input images, the computational time is decreased largely while maintaining high-resolution features.
+input images, the computational time is decreased largely. At the meantime, high-resolution features are maintained by
+super resolution task.
+
+Questions:
+1. Why the super resolution can extract better high-resolution features? What kind of features are learnt during the
+super resolution learning (the difference with semantic segmentation learning)?
+
+2. How the super resolution task guide the semantic segmentation task? In the paper, it utilizes a affinity feature
+learning branch, why does it work? What are other ways to represent similarity?
+
+3. 
+
+
 
 
