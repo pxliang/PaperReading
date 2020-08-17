@@ -16,7 +16,7 @@
 |:-:|:-:|:-:|:-:|
 |[PolyTransform: Deep Polygon Transformer for Instance Segmentation](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.pdf)|CVPR 2020||TO DO|
 |[End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)|arxiv|[code](https://github.com/facebookresearch/detr)||
-|Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks|[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7422783)|TMI 2016||TO DO|
+|[Pulmonary Nodule Detection in CT Images: False Positive Reduction Using Multi-View Convolutional Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7422783)|TMI 2016||TO DO|
 
 ## Semi-supervised
 | **Title** | **Conference** |**Code** | **Summary** |
