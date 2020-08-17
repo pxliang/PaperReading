@@ -1,3 +1,5 @@
-This paper proposes a two-stream network to integrate super resolution task with semantic segmentation task to extract better high-resolution representation for low-resolution raw input images. By extracting features from low-resolution input images, the computational time is decreased largely while maintaining high-resolution features. 
+This paper proposes a two-stream network to integrate super resolution task with semantic segmentation task to extract
+better high-resolution representation for low-resolution raw input images. By extracting features from low-resolution
+input images, the computational time is decreased largely while maintaining high-resolution features.
 
 
