@@ -4,6 +4,7 @@
 | **Title** | **Paper** | **Conference** | **Code** | **Summary** |
 |:-:|:-:|:-:|:-:|:-|
 |MSeg: A Composite Dataset for Multi-domain Semantic Segmentation|[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lambert_MSeg_A_Composite_Dataset_for_Multi-Domain_Semantic_Segmentation_CVPR_2020_paper.pdf)|CVPR 2020|[code](https://github.com/mseg-dataset/mseg-api)|
+|Dual Super-Resolution Learning for Semantic Segmentation|[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)|||
 
 ## Image Classification
 | **Title** | **Paper** | **Conference** |**Code** | **Summary** |
