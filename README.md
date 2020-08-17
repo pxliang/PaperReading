@@ -1,10 +1,10 @@
 # PaperReading
 
 ## Semantic Segmentation
-| **Title** | **Paper** | **Conference** | **Code** | **Summary** |
-|:-:|:-:|:-:|:-:|:-|
-|MSeg: A Composite Dataset for Multi-domain Semantic Segmentation|[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lambert_MSeg_A_Composite_Dataset_for_Multi-Domain_Semantic_Segmentation_CVPR_2020_paper.pdf)|CVPR 2020|[code](https://github.com/mseg-dataset/mseg-api)|
-|Dual Super-Resolution Learning for Semantic Segmentation|[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)|CVPR 2020|||
+| **Title** | **Conference** | **Code** | **Summary** |
+|:-:|:-:|:-:|:-:|
+|[MSeg: A Composite Dataset for Multi-domain Semantic Segmentation (http://openaccess.thecvf.com/content_CVPR_2020/papers/Lambert_MSeg_A_Composite_Dataset_for_Multi-Domain_Semantic_Segmentation_CVPR_2020_paper.pdf)|CVPR 2020|[code](https://github.com/mseg-dataset/mseg-api)|
+|[Dual Super-Resolution Learning for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf)|CVPR 2020||[Notes](https://github.com/pxliang/PaperReading/blob/master/CVPR2020/Dual%20Super-Resolution%20Learning%20for%20Semantic%20Segmentation.txt)|
 
 ## Image Classification
 | **Title** | **Paper** | **Conference** |**Code** | **Summary** |
