@@ -1,0 +1,10 @@
+This paper is actually an old paper and is a very classic paper. I have been read it before, but even now I read it again,
+I still can learn something that I missed before.
+
+My target today is mainly to learn the loss and RoI operations.
+
+Take away from each part:
+1. Introduction:
+   a. Faster RCNN is the first to propose region proposal network (RPN) and the anchor. The role of RPN is to simultaneously
+    regree bounding box and objectness scores;
+   b. The RPN and detection network are not trained end-to-end in the Faster RCNN.
