@@ -10,7 +10,7 @@ super resolution learning (the difference with semantic segmentation learning)?
 2. How the super resolution task guide the semantic segmentation task? In the paper, it utilizes a affinity feature
 learning branch, why does it work? What are other ways to represent similarity?
 
-3. 
+3.
 
 
 
